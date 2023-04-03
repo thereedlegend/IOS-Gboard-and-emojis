@@ -1,11 +1,3 @@
-
-## Table of contents
-- [Description](#description)
-- [How does it work?](#how-does-it-work)
-- [Themes](#themes)
-- [Pro Tips](#pro-tips)
-- [Credits](#credits)
-
 ## Description
 Gboard Themes is a Magisk module with themes invented trough modifying the only third party Gboard theme –  Material 2 theme, windows theme, ios theme...
 
