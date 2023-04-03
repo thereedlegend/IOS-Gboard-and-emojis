@@ -1,5 +1,5 @@
 ## Description
-Gboard Themes is a Magisk module with themes invented trough modifying the only third party Gboard theme –  Material 2 theme, windows theme, ios theme...
+Gboard Themes is a Magisk module with themes invented trough modifying the only third party Gboard theme – IOS theme!
 
 ## How does it work?
 The module modifies two of your system props to map the theme location and adds a folder (/system/etc/gboard_themes) with actual themes inside.
