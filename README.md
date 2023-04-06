@@ -1,3 +1,6 @@
+## WARNING
+6 April 2023 – module doesn't working! 
+
 ## Description
 Gboard Themes is a Magisk module with themes invented trough modifying the only third party Gboard theme – IOS theme!
 
